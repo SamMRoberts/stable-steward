@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableSteward-primary.dia",
+    "emit-module-dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableSteward-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableSteward-primary-emit-module.dia",
+    "pch" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableSteward-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableSteward-primary.swiftdeps"
+  },
+  "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/samroberts/Repo/SamMRoberts/stable-steward/StableSteward/ContentView.swift" : {
+    "const-values" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/samroberts/Repo/SamMRoberts/stable-steward/StableSteward/StableStewardApp.swift" : {
+    "const-values" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.swiftconstvalues",
+    "dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.d",
+    "diagnostics" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.dia",
+    "index-unit-output-path" : "/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.o",
+    "llvm-bc" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.bc",
+    "object" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.o",
+    "swift-dependencies" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp.swiftdeps",
+    "swiftmodule" : "/Users/samroberts/Repo/SamMRoberts/stable-steward/.build/DerivedData/Build/Intermediates.noindex/StableSteward.build/Debug-iphonesimulator/StableSteward.build/Objects-normal/x86_64/StableStewardApp~partial.swiftmodule"
+  }
+}
